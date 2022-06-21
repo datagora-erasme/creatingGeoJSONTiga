@@ -1,0 +1,277 @@
+3511Z;/ production d’électricité
+3512Z;/ transport d’électricité
+3513Z;/ distribution d’électricité
+3514Z;/ commerce d’électricité
+3521Z;/ production de combustibles gazeux
+3522Z;/ distribution de combustibles gazeux par conduite
+3523Z;/ commerce de combustibles gazeux par conduite
+3600Z;/ captage, traitement et distribution d’eau
+3700Z;/ collecte et traitement des eaux usées
+3811Z;/ collecte des déchets non dangereux
+3812Z;/ collecte des déchets dangereux
+3821Z;/ traitement et élimination des déchets non dangereux
+3822Z;/ traitement et élimination des déchets dangereux
+3832Z;/ récupération de déchets triés
+3900Z;/ dépollution et autres services de gestion des déchets
+3211Z;/ frappe de monnaie
+3212Z;/ fabrication d’article de joaillerie et bijouterie
+3213Z;/ fabrication d‘articles de bijouterie fantaisie et articles similaires
+3220Z;/ fabrication d’instruments de musique
+3230Z;/ fabrication d’articles de sport
+3240Z;/ fabrication de jeux et jouets
+3250A;/ fabrication de matériel médico-chirurgical et dentaire
+3250B;/ fabrication de lunettes
+3291Z;/ fabrication d’articles de brosserie
+3299Z;/ autres activités manufacturières n.c.a
+3311Z;/ réparation d’ouvrages en métaux
+3312Z;/ réparation de machines et équipements mécaniques
+3313Z;/ réparation de matériels électroniques et optiques
+3314Z;/ réparation d’équipements électroniques
+3315Z;/ réparation navale
+3316Z;/ réparation et maintenance d’aéronefs et d’engins spatiaux
+3317Z;/ réparation et maintenance d’autres équipements de transport
+3319Z;/ réparation d’autres équipements
+3320A;/ installation de structures métalliques chaudronnées et de tuyauterie
+3320B;/ installation de machines et équipements mécaniques
+3320C;/ conception d’ensemble et assemblage sur site industriel et d’équipements de contrôle des processus industriels
+3320D;/ installation d’équipements électriques, de matériel électroniques, et optiques ou d’autres matériels
+2410Z;/ sidérurgie
+2420Z;/ fabrication de tubes, tuyaux, profilés creux et accessoires correspondant en acier
+2431Z;/ étirage à froid de barres
+2432Z;/ laminage à froid de feuillards
+2433Z;/ profilage à froid par formage ou pliage
+2434Z;/ tréfilage à froid
+2442Z;/ production de métaux précieux
+2442Z;/ métallurgie de l’aluminium
+2443Z;/ métallurgie du plomb, du zinc ou de l’étain
+2444Z;/ métallurgie du cuivre
+2445Z;/ métallurgie des autres métaux non ferreux
+2446Z;/ élaboration et transformation de matières nucléaires
+2451Z;/ fonderie de fonte
+2452Z;/ fonderie d’acier
+2453Z;/ fonderie de métaux légers
+2454Z;/ fonderie d’autres métaux non ferreux
+2511Z;/ fabrication de structures métalliques et de parties de structures
+2512Z;/ fabrication de portes et fenêtres en métal
+2521Z;/ fabrication de radiateurs et de chaudières pour le chauffage central
+2529Z;/ fabrication d’autres réservoirs, citernes et conteneurs métalliques
+2530Z;/ fabrication de générateurs de vapeur, à l’exception des chaudières pour le chauffage central
+2540Z;/  fabrication d’armes et de munitions
+2550A;/  forge, estampage, matriçage : métallurgie des poudres
+2550B;/ découpage, emboutissage
+2561Z;/ traitement et revêtement des métaux
+2562A;/ décolletage
+2562B;/ mécanique industrielle
+2571Z;/ fabrication de coutellerie
+2572Z;/  fabrication de serrures et de ferrures
+2573A;/ fabrication de moules et de modèles
+2573B;/ fabrication d’autres outillages
+2591Z;/ fabrication de fûts et emballages métalliques similaires
+2592Z;/ fabrication d’emballages métalliques légers
+2593Z;/ fabrication d’articles en fils métalliques, de chaines et de ressorts
+2594Z;/ fabrication de vis et de boulons
+2599A;/ fabrication d’articles métalliques ménagers
+2599B;/ fabrication d’autres articles métalliques
+2110Z;/ fabrication de produits pharmaceutiques de base
+2120Z;/ fabrication de préparations pharmaceutiques
+2811Z;/ fabrication de moteurs et turbines, à l’exception des moteurs d’avion et de véhicules
+2812Z;/ fabrication d’équipements hydrauliques et pneumatiques
+2813Z;/ fabrication d’autres pompes et compresseurs
+2814Z;/ fabrication d’autres articles de robinetterie
+2815Z;/ fabrication d’engrenages et d’organes mécaniques de transmission
+2821Z;/ fabrication de fours et brûleurs
+2822Z;/ fabrication de matériel de levage et de manutention
+2823Z;/ fabrication de machines et d’équipements de bureau (à l’exception des ordinateurs et équipements périphériques
+2824Z;/ fabrication d’outillage portatif à moteur incorporé
+2825Z;/ fabrication d’équipements aérauliques et frigorifiques industriels
+2829A;/ fabrication d’équipements d’emballage, de conditionnement et de pesage
+2829B;/ fabrication d’autres machines d’usage général
+2830Z;/ fabrication de machines agricoles et forestières
+2841Z;/ fabrication de machines-outils pour le travail des métaux
+2849Z;/ fabrication d’autres machines-outils
+2891Z;/ fabrication de machines pour la métallurgie
+2892Z;/ fabrication de machines pour l’extraction ou la construction
+2893Z;/ fabrication de machines pour l’industrie agro-alimentaire
+2894Z;/ fabrication de machines pour les industries textiles
+2895Z;/ fabrication de machines pour les industries du papier et du carton
+2896Z;/ fabrication de machines pour le travail du caoutchouc ou des plastiques
+2899A;/ fabrication de machines d’imprimerie
+2899B;/ fabrication d’autres machines spécialisées
+2011Z;/ fabrication de gaz industriels
+2012Z;/ fabrication de colorants et de pigments
+2013A;/ enrichissement et retraitement des matières nucléaires
+2013B;/ fabrication d’autres produits chimiques inorganiques de base n.c.a.
+2014Z;/ fabrication d’autres produits chimiques organiques de base
+2015Z;/ fabrication de produits azotés et d’engrais
+2016Z;/ fabrication de matières plastiques de base
+2017Z;/ fabrication de caoutchouc synthétique
+2020Z;/ fabrication de pesticides et d’autres produits agrochimiques
+2030Z;/ fabrication de peintures, vernis, encres et mastics
+2041Z;/ fabrication de savons, détergents et produits d’entretien
+2042Z;/ fabrication de parfums et de produits pour la toilette
+2051Z;/ fabrication de produits explosifs
+2052Z;/ fabrication de colles
+2053Z;/ fabrication d’huiles essentielles
+2059Z;/ fabrication d’autres produits chimiques n.c.a.
+2060Z;/ fabrication de fibres artificielles ou synthétiques
+1011Z;/ transformation et conservation de la viande de boucherie
+1012Z;/ transformation et conservation de la viande de volaille
+1013A;/ préparation industrielle de produits à base de viande
+1013B;/ charcuterie
+1020Z;/ transformation et conservation de poissons, de crustacés et de mollusques
+1031Z;/ transformation et conservation de pommes de terre
+1032Z;/ préparation de jus de fruits et légumes
+1039A;/ autre transformation et conservation de légumes
+1039B;/ transformation et conservation de fruits
+1041A;/ fabrication d’huiles et graisses brutes
+1041B;/ fabrication d’huiles et graisses raffinées
+1042Z;/ fabrication de margarines et graisses comestibles similaires
+1051A;/ fabrication de lait liquide et de produits frais
+1051B;/ fabrication de beurre
+1051C;/ fabrication de fromage
+1051D;/ fabrication d’autres produits laitiers
+1052Z;/ fabrication de glaces et sorbets
+1061A;/ meunerie
+1061B;/ autre activités du travail des grains
+1062Z;/ fabrication de produits amylacés
+1071A;/ fabrication industrielle de pain et de pâtisserie fraiche
+1071B;/ cuisson de produits de boulangerie
+1071C;/ boulangerie et boulangerie-pâtisserie
+1071D;/ pâtisserie
+1072Z;/ fabrication de biscuits, biscottes et pâtisseries de conservation
+1073Z;/ fabrication de pâtes alimentaires
+1081Z;/ fabrication de sucre
+1082Z;/ fabrication de cacao, chocolat et de produits de confiserie
+1083Z;/ transformation du thé et du café
+1084Z;/ fabrication de condiments et assaisonnements
+1085Z;/ fabrication de plats préparés
+1086Z;/ fabrication d’aliments homogénéisés et diététiques
+1089Z;/ fabrication d’autres produits alimentaires n.c.a.
+1091Z;/ fabrication d’aliments pour animaux de ferme
+1092Z;/ fabrication d’aliment pour animaux de compagnie
+1101Z;/ production de boissons alcooliques distillées
+1102A;/ fabrication de vins effervescents
+1102B;/ vinification
+1103Z;/ fabrication de cidre et de vins de fruits
+1104Z;/ production d’autres boissons fermentées non distillées
+1105Z;/ fabrication de bière
+1106Z;/ fabrication de malt
+1107A;/ industrie des eaux de table
+1107B;/ production de boissons rafraichissantes
+1200Z;/ fabrication de produits à base de tabac
+2910Z;/ construction de véhicules automobiles
+2920Z;/ fabrication de carrosserie et remorques
+2931Z;/ fabrication d’équipements électriques et électroniques automobiles
+2932Z;/ fabrication d’autres équipements automobiles
+3011Z;/ construction de navires et de structures flottantes
+3012Z;/ construction de bateaux de plaisance
+3020Z;/ construction de locomotives et d’autre matériel ferroviaire roulant
+3030Z;/ construction aéronautique et spatiale
+3040Z;/ construction de véhicules militaires de combat
+3091Z;/ fabrication de motocycles
+3092Z;/ fabrication de bicyclettes et de véhicules pour invalides
+3099Z;/ fabrication d’autres équipements de transport n.c.a.
+2211Z;/ fabrication et rechapage de pneumatiques
+2219Z;/ fabrication d’autres articles en caoutchouc
+2221Z;/ fabrication de plaques , feuilles, tubes et profilés en matières plastiques
+2222Z;/ fabrication d’emballages en matières plastiques
+2223Z;/ fabrication d’éléments en matières plastiques pour la construction
+2229A;/ fabrication de pièces techniques à base de matières plastiques
+2229B;/ fabrication de produits de consommation courante en matières plastiques
+2311Z;/ fabrication de verre plat
+2312Z;/ façonnage et transformation du verre plat
+2313Z;/ fabrication de verre creux
+2314Z;/ fabrication de fibres de verre
+2319Z;/ fabrication et façonnage d’autres articles en verre, y compris verre technique
+2320Z;/ fabrication de produits réfractaires
+2331Z;/ fabrication de carreaux en céramique
+2332Z;/ fabrication de briques, tuiles et produits de construction, en terre cuite
+2341Z;/ fabrication d’articles céramiques à usage domestique ou ornemental
+2342Z;/ fabrication d’appareils sanitaires en céramique
+2343Z;/ fabrication d’isolateurs et pièces isolantes en céramique
+2344Z;/ fabrication d’autres produits céramiques à usage technique
+2349Z;/ fabrication d’autres produits céramiques
+2351Z;/ fabrication de ciment
+2352Z;/ fabrication de chaux et plâtre
+2361Z;/ fabrication d’éléments en béton pour la construction
+2362Z;/ fabrication d’éléments en plâtre pour la construction
+2363Z;/ fabrication de béton prêt à l’emploi
+2364Z;/ fabrication de mortiers et bétons secs
+2365Z;/ fabrication d’ouvrages en fibre-ciment
+2369Z;/ fabrication d’autres ouvrages en béton, en ciment ou en plâtre
+2370Z;/ taille, façonnage et finissage de pierres
+2391Z;/ fabrication de produits abrasifs
+2399Z;/ fabrication d’autres produits minéraux non métalliques n.c.a.
+2711Z;/ fabrication de moteurs, génératrices et transformateurs électriques
+2712Z;/ fabrication de matériel de distribution et de commande électrique
+2720Z;/ fabrication de piles et d’accumulateurs électriques
+2731Z;/ fabrication de câbles de fibres optiques
+2732Z;/ fabrication d’autres fils et câbles électroniques ou électriques
+2733Z;/ fabrication de matériel d’installation électrique
+2740Z;/ fabrication d’appareils d’éclairage électrique
+2751Z;/ fabrication d’appareils électroménagers
+2752Z;/ fabrication d’appareils ménagers non électriques
+2790Z;/ fabrication d’autres matériels électriques
+1610A;/ sciage et rabotage du bois, hors imprégnation
+1610B;/ imprégnation du bois
+1621Z;/ fabrication de placage et de panneaux de bois
+1622Z;/ fabrication de parquets assemblés
+1623Z;/ fabrication de charpentes et d’autres menuiseries
+1624Z;/ fabrication d’emballages en bois
+1629Z;/ fabrication d’objets divers en bois ; fabrication d’objets en liège, vannerie et sparterie
+1711Z;/ fabrication de pâte à papier
+1712Z;/ fabrication de papier et de carton
+1721A;/ fabrication de carton ondulé
+1721B;/ fabrication de cartonnages
+1721C;/ fabrication d’emballages en papier
+1722Z;/ fabrication d’articles en papier à usage sanitaire ou domestique
+1723Z;/ fabrication d’articles de papeterie
+1724Z;/ fabrication de papiers peints
+1729Z;/ fabrication d’autres articles en papier ou en carton
+1310Z;/ préparation de fibres textiles et filature
+1320Z;/ tissage
+1330Z;/ ennoblissement textile
+1391Z;/ fabrication d’étoffes à mailles
+1392Z;/ fabrication d’articles textiles, sauf habillement
+1393Z;/ fabrication de tapis et moquettes
+1394Z;/ fabrication de ficelles, cordes et filets
+1395Z;/ fabrication de non-tissés, sauf habillement
+1396Z;/ fabrication d’autres textiles techniques et industriels
+1399Z;/ fabrication d’autres textiles n.c.a.
+1411Z;/ fabrication de vêtements en cuir
+1412Z;/ fabrication de vêtements de travail
+1413Z;/ fabrication de vêtements de dessus
+1414Z;/ fabrication de vêtements de dessous
+1419Z;/ fabrication d’autres vêtements et accessoires
+1420Z;/ fabrication d’articles en fourrure
+1431Z;/ fabrication d’articles chaussants à mailles
+1439Z;/ fabrication d’autres articles à mailles
+1511Z;/ apprêt et tannage des cuirs ; préparation et teinture des fourrures
+1512Z;/ fabrication d’articles de voyage, de maroquinerie et de sellerie
+1520Z;/ fabrication de chaussures
+2611Z;/ fabrication de composants électroniques
+2612Z;/ fabrication de cartes électroniques assemblées
+2620Z;/ fabrication d’ordinateurs et d’équipements périphériques
+2630Z;/ fabrication d’équipements de communication
+2640Z;/ fabrication de produits électroniques grand public
+2651A;/ fabrication d’équipements d’aide à la navigation
+2651B;/ fabrication d’instrumentation scientifique et technique
+2652Z;/ horlogerie
+2660Z;/ fabrication d’équipements d’irradiation médicale, d’équipements électromédicaux et électrothérapeutiques
+2670Z;/ fabrication de matériels optique et photographique
+2680Z;/ fabrication de supports magnétiques et optiques
+1910Z;/ cokéfaction
+1920Z;/ raffinage du pétrole
+0510Z;/ extraction de houille
+0520Z;/ extraction de lignite
+0610Z;/ extraction de pétrole brut
+0620Z;/ extraction de gaz naturel
+0710Z;/ extraction de minerais de fer
+0721Z;/ extraction de minerais d’uranium et de thorium
+0729Z;/ extraction d’autres minerais de métaux non ferreux
+0811Z;/ extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d’ardoise
+0812Z;/ exploitation de gravières et sablières, extraction d’argiles et de kaolin
+0891Z;/ extraction des minéraux chimiques et d’engrais minéraux
+0892Z;/ extraction de tourbe
+0893Z;/ production de sel
+0899Z;/ autres activités extractives n.c.a.
